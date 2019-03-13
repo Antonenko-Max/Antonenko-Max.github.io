@@ -1,0 +1,16 @@
+header, section {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+  background: #bbb;
+}
+
+p, table, img {
+  margin-left: 10px;
+}
+
+h1 {
+  text-align: center;
+}
